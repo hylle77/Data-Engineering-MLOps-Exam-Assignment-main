@@ -1,4 +1,6 @@
 ratebeer.csv
 ratebeer.pkl
+reviews.csv
+xgboost.pkl
 .DS_Store
 .env
